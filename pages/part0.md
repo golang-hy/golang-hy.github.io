@@ -76,4 +76,4 @@ TODO
 
 ### Mistakes: ###
 
-Please read about [contributing](https://docker-hy.github.io/contributing)
+Please read about [contributing](https://golang-hy.github.io/contributing)

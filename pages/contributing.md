@@ -12,7 +12,7 @@ Since the course is open source you can fork, edit and send a pull request. If y
 
 If you feel like you don't want to be part of the list of contributors you can also add an issue. Guide for making issue in github is [here](https://help.github.com/en/articles/creating-an-issue).
 
-Pages to create: [issue](https://github.com/docker-hy/docker-hy.github.io/issues) and [pull request](https://github.com/docker-hy/docker-hy.github.io/pulls).
+Pages to create: [issue](https://github.com/golang-hy/golang-hy.github.io/issues) and [pull request](https://github.com/golang-hy/golang-hy.github.io/pulls).
 
 Please follow the guidelines here when you make a pull request or issue to help us review it.
 
